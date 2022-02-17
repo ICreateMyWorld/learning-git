@@ -1,4 +1,4 @@
-shopping_list={"piekarnia" : ["chleb","paczek","buleczki"],
+shopping_list={"piekarnia" : ["chleb","paczek","buleczki,"eklerki"],
 "warzywniak":["marchew","seler","rukola","kolendra"]}
 
 total_item_count = 0
