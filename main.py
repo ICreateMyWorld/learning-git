@@ -1,5 +1,5 @@
 shopping_list={"piekarnia" : ["chleb","paczek","buleczki"],
-"warzywniak":["marchew","seler","rukola","kolendra"]}
+"warzywniak":["marchew","seler","rukola","kolendra","galaretke"]}
 
 total_item_count = 0
 for store, items in shopping_list.items():
